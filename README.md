@@ -1,3 +1,7 @@
+This project is a practice course which is currently live at
+
+https://reactclientpanel-52f83.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
